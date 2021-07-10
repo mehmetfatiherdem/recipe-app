@@ -73,4 +73,10 @@ body {
   border-radius: 2em 2em 0 0;
 }
 
+.suggestion-text{
+  font-size: 30px;
+  padding: 10px;
+  text-align: center;
+  font-family: "Squada One";
+}
 
